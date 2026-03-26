@@ -16,8 +16,8 @@ To convert string inputs into integers using the wrapper class and perform addit
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: PRASANNA R
-RegisterNumber: 212222040120
+Developed by: Nithiyanandan N
+RegisterNumber: 212222230099
 */
 ```
 
